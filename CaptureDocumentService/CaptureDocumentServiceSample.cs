@@ -1312,7 +1312,7 @@ namespace Kofax.TotalAgility.Sdk.Samples.CaptureDocumentService
             }
             catch (Exception ex)
             {
-                // Unhandled exceptions will terminate processing from progressing through the remaining
+                // Unhandled exceptions will terminate processing from progressing through the remaining 
                 // nodes on the process map.
                 throw;
             }
